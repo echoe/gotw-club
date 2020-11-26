@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## Welcome to Game of the Week Club!
 
-You can use the [editor on GitHub](https://github.com/echoe/gotw-club/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This is the landing page for a podcast where four friends all play a game every week, and talk about it. :)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+Feel free to follow along, and check out our podcast on Anchor if you're interested!
+This week we talked about our experiences in gaming.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### If you want to follow along:
+The upcoming Game Of The Week is Celeste!
 
-```markdown
-Syntax highlighted code block
+### Previous Games of the Week haven't yet existed but will be listed here.
+Who is part of this podcast?.
 
-# Header 1
-## Header 2
-### Header 3
+Iris wrote this website and started this podcast, wow! You can find her at http://twitter.com/rainbowmessengr , or streaming at http://twitch.tv/rainbow_mess .
+Crow is pretty awesome! They're heavily online™, and you can find all of their links (TikTok, Twitch, YouTube) at https://linktr.ee/novasgameplay .
+Imani is great too! She streams three times a week at http://twitch.tv/umanimac .
+Sayla is also awesome!! (Weird. It's like we're all great or something!) You can catch them at http://twitter.com/fantasticmxfox, or http://twitch.tv/fantasticfox .
 
-- Bulleted
-- List
+If you have any inquiries, please feel free to send an email to gameoftheweekclub@gmail.com!
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/echoe/gotw-club/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Hope you're having a great day. :)
