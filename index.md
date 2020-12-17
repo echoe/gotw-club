@@ -1,19 +1,20 @@
 # Welcome to the landing page for Game of the Week Club!
 
-This is the landing page for a podcast where four friends all play and talk about a game every week!
+This is the landing page for a podcast where four friends all talk about games every week!
 
 
 Feel free to follow along, and check out our podcast on Anchor if you're interested! [https://anchor.fm/gameoftheweekclub](https://anchor.fm/gameoftheweekclub)  
 
 ## This week:
-We talked about Celeste!
+We've been attempting to record podcasts, but haven't gotten one out in a bit. We're planning to have one out next week!
 
 ## If you want to follow along:
-The upcoming Game Of The Week is Owlboy! We'll be posting our podcast, which whill include our takes, every Thursday!
+The upcoming Game Of The Week is XCOM 2. Previously we also played Owlboy! We're planning to get to a state where we're posting podcasts every Thursday!
 
 ## Previous Games of the Week:
 Episode 0: We discussed our viewpoints on gaming.  
 Episode 1: We talked about Celeste and loss.
+Episode 2: We're going to talk about playing Owlboy and XCOM, and will talk about why we are changing formats!
 
 
 # Who is part of this podcast?  
